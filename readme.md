@@ -9,6 +9,7 @@ url: api/{url}/{palavra}
 A API retornara um JSON com a seguinte estrutura
 
 {
+
     'status': ,
 
     'url': ,
