@@ -9,7 +9,6 @@ url: api/{url}/{palavra}
 A API retornara um JSON com a seguinte estrutura
 
 
-  {
 
     'status': ,
 
@@ -25,7 +24,6 @@ A API retornara um JSON com a seguinte estrutura
 
     }
 
-  }
 
 
 Em resultado, é possível encontrar as quantidade de ocorrências totais da palavra no código fonte e também
